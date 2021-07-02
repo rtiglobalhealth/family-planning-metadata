@@ -1,0 +1,29 @@
+{
+    "packages": [ 
+        {
+            "id": "fp-meta-data",
+            "name": "ReachHealth Family Planning Metadata",
+            "organization": "ReachHealth",
+            "description": "ReachHealth Program Metadat Reporting",
+            "url": "https://ntddhis2.github.io/",
+            "icons": [{
+                "48": "https://github.com/rtiglobalhealth/family-planning-metadata/raw/master/assets/logo48.png",
+                "128": "https://github.com/rtiglobalhealth/family-planning-metadata/raw/master/assets/logo128.png"
+            }],
+            "license": {
+                "name": "Creative commons",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            },
+            "tags": [
+                "COVID",
+                "Aggregate"
+            ],
+            "versions": [{
+                "version": "0.1",
+                "href": "https://raw.githubusercontent.com/rtiglobalhealth/family-planning-metadata/main/metadata.json"
+            }]
+        } 
+    ]
+  }
+  
+
